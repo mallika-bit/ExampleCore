@@ -15,5 +15,7 @@ namespace ExampleCore.Data
         }
 
         public DbSet<ApplicationUser> ApplicationUser { get; set; }
+
+        public DbSet<Category> Categories { get; set; }
     }
 }
