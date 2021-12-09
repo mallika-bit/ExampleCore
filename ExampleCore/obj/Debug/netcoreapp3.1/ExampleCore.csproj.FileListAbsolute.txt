@@ -398,7 +398,6 @@ C:\Users\Mallika\mallika .Net Core Projects\ExampleCore\ExampleCore\bin\Debug\ne
 C:\Users\Mallika\mallika .Net Core Projects\ExampleCore\ExampleCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\Mallika\mallika .Net Core Projects\ExampleCore\ExampleCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\Mallika\mallika .Net Core Projects\ExampleCore\ExampleCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Mallika\mallika .Net Core Projects\ExampleCore\ExampleCore\obj\Debug\netcoreapp3.1\ExampleCore.csproj.AssemblyReference.cache
 C:\Users\Mallika\mallika .Net Core Projects\ExampleCore\ExampleCore\obj\Debug\netcoreapp3.1\ExampleCore.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Mallika\mallika .Net Core Projects\ExampleCore\ExampleCore\obj\Debug\netcoreapp3.1\ExampleCore.AssemblyInfoInputs.cache
 C:\Users\Mallika\mallika .Net Core Projects\ExampleCore\ExampleCore\obj\Debug\netcoreapp3.1\ExampleCore.AssemblyInfo.cs
@@ -473,3 +472,4 @@ C:\Users\Mallika\mallika .Net Core Projects\ExampleCore\ExampleCore\obj\Debug\ne
 C:\Users\Mallika\mallika .Net Core Projects\ExampleCore\ExampleCore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
 C:\Users\Mallika\mallika .Net Core Projects\ExampleCore\ExampleCore\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Pet\Index.cshtml.g.cs
 C:\Users\Mallika\mallika .Net Core Projects\ExampleCore\ExampleCore\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\Home\Details.cshtml.g.cs
+C:\Users\Mallika\mallika .Net Core Projects\ExampleCore\ExampleCore\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\User\Index.cshtml.g.cs
