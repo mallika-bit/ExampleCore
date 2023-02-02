@@ -22,6 +22,8 @@ namespace sampleClass
             Car ca = new Car();
             
             Console.WriteLine(ca.name);
+            Console.WriteLine("hello");
+            Console.WriteLine("abc");
         }
       
 
