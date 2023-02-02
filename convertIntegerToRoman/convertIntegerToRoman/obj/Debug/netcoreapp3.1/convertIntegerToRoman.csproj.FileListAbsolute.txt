@@ -1,0 +1,14 @@
+C:\Users\Mallika\ExampleCore\convertIntegerToRoman\convertIntegerToRoman\bin\Debug\netcoreapp3.1\convertIntegerToRoman.exe
+C:\Users\Mallika\ExampleCore\convertIntegerToRoman\convertIntegerToRoman\bin\Debug\netcoreapp3.1\convertIntegerToRoman.deps.json
+C:\Users\Mallika\ExampleCore\convertIntegerToRoman\convertIntegerToRoman\bin\Debug\netcoreapp3.1\convertIntegerToRoman.runtimeconfig.json
+C:\Users\Mallika\ExampleCore\convertIntegerToRoman\convertIntegerToRoman\bin\Debug\netcoreapp3.1\convertIntegerToRoman.runtimeconfig.dev.json
+C:\Users\Mallika\ExampleCore\convertIntegerToRoman\convertIntegerToRoman\bin\Debug\netcoreapp3.1\convertIntegerToRoman.dll
+C:\Users\Mallika\ExampleCore\convertIntegerToRoman\convertIntegerToRoman\bin\Debug\netcoreapp3.1\convertIntegerToRoman.pdb
+C:\Users\Mallika\ExampleCore\convertIntegerToRoman\convertIntegerToRoman\obj\Debug\netcoreapp3.1\convertIntegerToRoman.csproj.AssemblyReference.cache
+C:\Users\Mallika\ExampleCore\convertIntegerToRoman\convertIntegerToRoman\obj\Debug\netcoreapp3.1\convertIntegerToRoman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mallika\ExampleCore\convertIntegerToRoman\convertIntegerToRoman\obj\Debug\netcoreapp3.1\convertIntegerToRoman.AssemblyInfoInputs.cache
+C:\Users\Mallika\ExampleCore\convertIntegerToRoman\convertIntegerToRoman\obj\Debug\netcoreapp3.1\convertIntegerToRoman.AssemblyInfo.cs
+C:\Users\Mallika\ExampleCore\convertIntegerToRoman\convertIntegerToRoman\obj\Debug\netcoreapp3.1\convertIntegerToRoman.csproj.CoreCompileInputs.cache
+C:\Users\Mallika\ExampleCore\convertIntegerToRoman\convertIntegerToRoman\obj\Debug\netcoreapp3.1\convertIntegerToRoman.dll
+C:\Users\Mallika\ExampleCore\convertIntegerToRoman\convertIntegerToRoman\obj\Debug\netcoreapp3.1\convertIntegerToRoman.pdb
+C:\Users\Mallika\ExampleCore\convertIntegerToRoman\convertIntegerToRoman\obj\Debug\netcoreapp3.1\convertIntegerToRoman.genruntimeconfig.cache
